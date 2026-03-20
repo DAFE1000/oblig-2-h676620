@@ -1,5 +1,7 @@
 Natasha Amoako Larssen   <nalar0436@oslomet.no>
 
+https://classroom.github.com/open-in-codespaces?assignment_repo_id=23184407
+
 Utregninger på papir:
 
 ![mat1](https://github.com/user-attachments/assets/05f80635-8612-4d93-a5d9-4df057bf2e4e)
