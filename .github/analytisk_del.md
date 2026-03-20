@@ -1,4 +1,4 @@
-![Utregning](mat1.jpg)
-![](mat2.jpg) 
-![](mat3.jpg)
+![Utregning](bilder/mat1.jpg)
+![](bilder/mat2.jpg) 
+![](bilder/mat3.jpg)
 
